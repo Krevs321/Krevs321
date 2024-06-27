@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gasper Krevs.
-- 👀 I’m interested in Game development, VFX, 3D modeling, interior design.
-- 🌱 I’m currently learning VR game development and basics of VFX.
-- 🌱 I'm working on a couple of games, for tutoring job, that I will be posting later.
-- 💞️ I’m looking to work in the game development industry.
+- 👀 I’m interested in Game development, but now I became a huge fan of Mobile development in Flutter.
+- 🌱 I’m currently learning Flutter and Dart.
+- 🌱 I'm working on a flutter vocabulary learning app.
+- 💞️ I’m looking to work in the mobile development industry.
 - 📫 How to reach me gasper.krevs@gmail.com
 
 <!---
